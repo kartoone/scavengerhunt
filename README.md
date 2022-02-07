@@ -1,4 +1,4 @@
-# scavengerhunt
+# scavengerhunt - https://github.com/kartoone/scavengerhunt
 scavenger hunt game to learn the features of git
 
 # game objective
