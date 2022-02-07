@@ -1,0 +1,10 @@
+# Instructions
+Fill in the blanks, and be the first to successfully submit a pull request with the correct answers.
+
+# Your first clue
+Your first clue is located in the dev branch within a file whose filename contains the term that means syncing your code with the current repository version.
+
+# Answers
+1. ___________
+2. ___________
+3. ___________
